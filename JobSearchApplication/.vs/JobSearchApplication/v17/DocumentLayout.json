@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\views\\login\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:views\\login\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\models\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:models\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\models\\jobappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:models\\jobappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\services\\encryptdecrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:services\\encryptdecrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\jobsearchapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:jobsearchapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|c:\\users\\coditas\\source\\repos\\jobsearchapplication\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77956B92-9BBE-4474-8092-AE00157BA710}|JobSearchApplication.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAwAAAAAODMzMzP3vyoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:09:39.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAIAAAAAnpmZmZkOwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:23:43.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserCredential.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Models\\UserCredential.cs",
+              "RelativeDocumentMoniker": "Models\\UserCredential.cs",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Models\\UserCredential.cs",
+              "RelativeToolTip": "Models\\UserCredential.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:32:04.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:25:13.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Views\\Login\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Views\\Login\\Signup.cshtml",
+              "RelativeToolTip": "Views\\Login\\Signup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T11:25:12.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobappdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Models\\JobappdbContext.cs",
+              "RelativeDocumentMoniker": "Models\\JobappdbContext.cs",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Models\\JobappdbContext.cs",
+              "RelativeToolTip": "Models\\JobappdbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:06:52.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T10:41:45.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EncryptDecrypt.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Services\\EncryptDecrypt.cs",
+              "RelativeDocumentMoniker": "Services\\EncryptDecrypt.cs",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Services\\EncryptDecrypt.cs",
+              "RelativeToolTip": "Services\\EncryptDecrypt.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:27:49.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T09:36:33.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T06:38:00.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobSearchApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\JobSearchApplication.csproj",
+              "RelativeDocumentMoniker": "JobSearchApplication.csproj",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\JobSearchApplication.csproj",
+              "RelativeToolTip": "JobSearchApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T10:26:57.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T17:07:15.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Coditas\\source\\repos\\JobSearchApplication\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:25:02.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
